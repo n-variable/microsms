@@ -1,0 +1,15 @@
+{
+  "name": "microsms",
+  "version": "0.1.0",
+  "description": "Super small library for sending SMS messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.7.7",
+    "typescript": "^4.7.4"
+  }
+}
